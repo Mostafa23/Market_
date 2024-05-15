@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+.container {
+    margin-top: 100px;
+}
+
+.card-img-top {
+    width:90%; 
+    height:300px;
+    margin: 10px auto 0 auto;
+}
+
+.btn_show_price {
+    display: none;
+}
